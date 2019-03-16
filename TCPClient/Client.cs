@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace TCPClient
 {
-    class Program
+    class Client
     {
 
         static void Main(string[] args)
